@@ -38,5 +38,19 @@
                 * Várias bibliotecas não tem suporte para o Expo.
                 * O expo liberou seus recursos sem utilizar ele.
 
+   -> ReactJS x React native
+        - No React Native os elementos não são semânticos
+            Ex: Text ==> p, span,strong, h1, h2, h3           
+        - No reat native não existe estilização própria
+        - Todos componentes possuem display flex
+        - Não tem herança de estilos
 
-
+/***
+ *  IOs com Emulador: Localhost
+ *  Ios com despositivo: Ip da máquina
+ *  Android com emulador : localhost (adb reverse)
+ *  Android com emulador> 10.0.2.2 (Android Studio)
+ *  Android com emulador :10.0.3.2 (Genymotion)
+ * Android com despositivo físico
+ * 
+ */
